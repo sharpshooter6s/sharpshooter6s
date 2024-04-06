@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharpshooter6s
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning to code
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: sharpshooter 🔫
 
 <!---
